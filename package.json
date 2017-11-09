@@ -1,0 +1,13 @@
+{
+  "name": "rooms-checker-presentation",
+  "version": "1.0.0",
+  "main": "app.js",
+  "author": "Thai Le <thailekha@yahoo.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.2"
+  },
+  "engines": {
+ 	"node": "6.11.2"
+  }
+}

@@ -1,0 +1,1 @@
+heroku apps:create rooms-checker-presentation --region eu && git push heroku master && heroku logs --tail
